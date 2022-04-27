@@ -2,15 +2,15 @@
 
 ## base endpoint
 
-https://api.github.com/search/repositories
+https://api.github.com/search/repositories?q=''
 
 ## TASK - 1
 
-- get all repositories and list
-- have a loading state
+- get all repositories and display list of repos
+- have a loading state as you make a request
 - handle errors
-- add some basic styles think of the user (the file is scss)
 - load more CTA - on click it should fetch the next page os repos
+- add some basic styles think of the user (the file is scss)
 
 ## TASK - 2
 
